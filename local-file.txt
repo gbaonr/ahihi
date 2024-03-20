@@ -1,1 +1,2 @@
 file nay duoc tao tren local de tao conflict voi main branch tren web
+gio lai edit file nay tren local
