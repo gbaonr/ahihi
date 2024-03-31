@@ -1,0 +1,29 @@
+{
+  "name": "test_nodejs",
+  "version": "1.0.0",
+  "description": "nghich nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbaonr/ahihi.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "gbaonr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbaonr/ahihi/issues"
+  },
+  "homepage": "https://github.com/gbaonr/ahihi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
